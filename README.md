@@ -37,7 +37,7 @@ Before running the test cases, ensure the following:
 
 Navigate to the following URL in your browser or use a tool like Postman to trigger the tests:
 
-http://<your-server-url>/test
+http://dimentionles-todoo.vercel.app/test
 
 This will run all the test cases.
 
